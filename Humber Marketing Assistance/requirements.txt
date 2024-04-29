@@ -1,0 +1,8 @@
+api_secrets==1.23
+googletrans==4.0.0rc1
+nltk==3.8.1
+openai==0.27.8
+pandas==2.0.3
+Pillow==9.5.0
+streamlit==1.25.0
+
