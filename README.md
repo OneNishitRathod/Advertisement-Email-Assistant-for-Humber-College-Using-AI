@@ -1,8 +1,3 @@
-# Advertisement-Email-for-Humber-College-Using-AI
-The project is about generating advertisement emails for humber college pertaining to their programs wherein this project targets potential students to get enrolled and start their admission process with humber college.
-
-
-
 # Bilingual Hawk - Marketing Assistance for Humber College
 
 The Creative Marketing Assistance App is a tool designed to streamline the process of generating SMS and email advertisements for program promotion at Humber College. With this app, you can create compelling and engaging marketing content that resonates with your target audience, helping you attract and engage prospective students effectively.
