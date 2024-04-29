@@ -29,7 +29,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 nltk.download('vader_lexicon')
 
 # SET UP OPEN AI API KEY
-#openai.api_key = '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'
+#openai.api_key = 'ADD YOUR OWN OPENAI API KEY'
 
 
 # LOAD PROGRAM OVERVIEW DATA
